@@ -2,6 +2,8 @@
 
 A portable, dependency-free exam practice app for Claude Certified Developer – Foundations preparation. **Independent educational project; not affiliated with or endorsed by Anthropic.** Questions are original, not official exam questions or exam dumps.
 
+Here we go: https://jienagu.github.io/Claude-Certified-Developer-CCDV-F-exam-simulator/ 
+
 ## Run immediately
 
 Open `index.html` in a modern browser. No server, API key, npm install, or build is required. All CSS, JavaScript, and questions are bundled in that one file.
